@@ -1,0 +1,12 @@
+F:\ds\CalculoArea\projetoCalculoArea\bin\Debug\projetoCalculoArea.exe.config
+F:\ds\CalculoArea\projetoCalculoArea\bin\Debug\projetoCalculoArea.exe
+F:\ds\CalculoArea\projetoCalculoArea\bin\Debug\projetoCalculoArea.pdb
+F:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.csprojResolveAssemblyReference.cache
+F:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.Form1.resources
+F:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.Properties.Resources.resources
+F:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.csproj.GenerateResource.Cache
+F:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.exe
+F:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.pdb
+D:\ds\CalculoArea\projetoCalculoArea\bin\Debug\projetoCalculoArea.exe.config
+D:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.exe
+D:\ds\CalculoArea\projetoCalculoArea\obj\Debug\projetoCalculoArea.pdb
